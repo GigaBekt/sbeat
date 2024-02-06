@@ -25,11 +25,11 @@ const Calculator = () => {
               <p>$0.00</p>
             </div>
             <p className="note">
-              Note: Higher <span>Tiers</span>
+              Note: Higher <span>Tiers </span>
               have higher returns
             </p>
 
-            <div className="slider">
+            <div className="slider desktop">
               <p>Current Price: $$$</p>
               <div className="customSlider">
                 <input
