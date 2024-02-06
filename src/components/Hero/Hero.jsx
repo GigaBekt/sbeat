@@ -1,5 +1,5 @@
-import hero from "../../assets/SBEAT.png";
-import heroMob from "../../assets/SBEAT1.png";
+import hero from "../../assets/sbeat.png";
+import heroMob from "../../assets/sbeat1.png";
 
 const Hero = () => {
   return (
